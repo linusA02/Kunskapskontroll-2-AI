@@ -1,1 +1,1 @@
-# Kunskapskontroll-2-AI Alternativ 1
+# Kunskapskontroll-2-AI
